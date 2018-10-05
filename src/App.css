@@ -1,0 +1,10 @@
+.done-task {
+  text-decoration: line-through;
+}
+
+.active-filter {
+  text-decoration: none;
+  cursor: default;
+  color: inherit;
+
+}
